@@ -1,6 +1,6 @@
 # real-nights-dark-theme README
 
-## Bem=vindo ao README do Real Nights Dark Theme
+## Bem-vindo ao README do Real Nights Dark Theme
 ## Welcome to README in Real Nights Dark Theme
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
